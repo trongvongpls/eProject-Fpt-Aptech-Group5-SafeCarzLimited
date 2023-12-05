@@ -1,0 +1,32 @@
+[
+    {
+        "id":4,
+        "name":"Car Basic",
+        "price":70,
+        "desc1":"Damage third-party vehicle",
+        "desc2":"Own Damage Theft",
+        "desc3":"",
+        "desc4":"",
+        "desc5":""
+    },
+    {
+        "id":5,
+        "name":"Car Standard",
+        "price":110,
+        "desc1":"Damage third-party vehicle",
+        "desc2":"Own Damage Theft",
+        "desc3":"Damage due to fire",
+        "desc4":"",
+        "desc5":""
+    },
+    {
+        "id":6,
+        "name":"Car Gold",
+        "price":121,
+        "desc1":"Damage third-party vehicle",
+        "desc2":"Own Damage Theft",
+        "desc3":"Damage due to fire",
+        "desc4":"Naturaly damage",
+        "desc5":"Personal Accident cover"
+    }
+]

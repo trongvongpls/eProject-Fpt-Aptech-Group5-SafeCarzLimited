@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Bike Basic",
+        "price":30,
+        "desc1":"Damage third-party vehicle",
+        "desc2":"Own Damage Theft",
+        "desc3":"",
+        "desc4":"",
+        "desc5":""
+    },
+    {
+        "id":2,
+        "name":"Bike Standard",
+        "price":50,
+        "desc1":"Damage third-party vehicle",
+        "desc2":"Own Damage Theft",
+        "desc3":"Damage due to fire",
+        "desc4":"",
+        "desc5":""
+    },
+    {
+        "id":3,
+        "name":"Bike Platinum",
+        "price":80,
+        "desc1":"Damage third-party vehicle",
+        "desc2":"Own Damage Theft",
+        "desc3":"Damage due to fire",
+        "desc4":"Naturaly damage",
+        "desc5":"Personal Accident cover"
+    }
+]
